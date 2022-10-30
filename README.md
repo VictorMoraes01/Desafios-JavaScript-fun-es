@@ -1,2 +1,2 @@
-# Desafios-JavaScript-fun-es
+# Desafios-JavaScript-funcoes
 Desafio DIO
