@@ -1,5 +1,3 @@
-**Código resolução**
-
 //Desafio 1: "Crie uma função que recebe o array alunos e um número que irá representar a média final".
 
 const alunos = [
@@ -40,7 +38,6 @@ function alunosAprovados(arr, media){
 }
 
 console.log(alunosAprovados(alunos,5));
-
 
 //Desafio 2: "Percorra o array e popule um novo array auxiliar apenas com os alunos cujas notas são maiores ou iguais à média final".
 
